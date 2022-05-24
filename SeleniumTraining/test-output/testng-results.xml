@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152" started-at="2022-05-21T09:51:22 PDT" finished-at="2022-05-21T09:51:22 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152" started-at="2022-05-21T09:51:22 PDT" finished-at="2022-05-21T09:51:22 PDT">
+      <class name="BrowserOperations.Sample1">
+        <test-method status="PASS" signature="smoketc1()[pri:0, instance:BrowserOperations.Sample1@396f6598]" name="smoketc1" duration-ms="30" started-at="2022-05-21T09:51:22 PDT" finished-at="2022-05-21T09:51:22 PDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smoketc1 -->
+      </class> <!-- BrowserOperations.Sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
